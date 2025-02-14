@@ -76,6 +76,15 @@ Bookly is a Flutter application that helps users discover and get book recommend
 
 ---
 
+## 📸 Screenshots
+
+Here is a preview of the app:
+![List of books not added to favorites Screen ](./assets/screenshoot/screen-1.jpg)
+![List of books with bookmarks Screen ](./assets/screenshoot/screen-2.jpg)
+
+
+---
+
 ## ✨ Features
 - Discover a wide range of books using Google Books API.
 - Get book recommendations powered by smart AI.
